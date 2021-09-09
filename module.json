@@ -1,6 +1,6 @@
 {
 	"name": "dragons-bottle-green-gold",
-	"title": "Dice So Nice - Q WORKSHOP Dragons Bottle-green & Gold Dice",
+	"title": "Dice So Nice - Q WORKSHOP Dragons Bottle-green Gold Dice",
 	"description": "Adds a set of Q WORKSHOP Dragons 3D Dice to Dice-So-Nice ",
 	"version": "0.0.1",
 	"minimumCoreVersion" : "0.7.2",
@@ -13,7 +13,7 @@
 		}
 	],
 	"scripts": [
-		"elvish.js"
+		"dragons-bottle-green-gold.js"
 	],
 	"url": "https://github.com/ennoia6/dragons-bottle-green-gold",
 	"manifest": "https://raw.githubusercontent.com/ennoia6/dragons-bottle-green-gold/master/module.json",
