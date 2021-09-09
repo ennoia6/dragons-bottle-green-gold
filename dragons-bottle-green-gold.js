@@ -39,7 +39,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
 	dice3d.addDicePreset({
 		type: "d12",
 		labels: "",
-		modelFile: "modules/dragons-bottle-green-gold/d12_dragons_SDRA98.glb",
+		modelFile: "modules/dragons-bottle-green-gold/d12_poprawka_dragons_SDRA98.glb",
 		system: "dragons-bottle-green-gold"
 	});
 	dice3d.addDicePreset({
